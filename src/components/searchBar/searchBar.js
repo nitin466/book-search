@@ -93,7 +93,7 @@ const SearchInput = ({ onSubmit }) => {
 
   return (
     <div className='search-container'>
-      <h3 className='app-heading'>A simple feature to find book based summary search </h3>
+      <h3 className='app-heading'>A simple feature to find book based on summary search </h3>
       <div className="input-container">
         <div className='input-error'>
           <input type="text" className='search-input'
