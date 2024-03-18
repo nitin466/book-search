@@ -1,0 +1,19 @@
+.suggestion {
+    width: 100%;
+    box-sizing: border-box;
+    font-size: 1.2rem;
+    padding: 0.3rem 0.5rem;
+    border-bottom: 1px solid #EFEFEF;
+    text-align:left;
+    height: auto;
+    z-index:9;
+    display: flex;
+    justify-content: space-between;
+}
+.suggestion:hover {
+    background-color: #DFDFDF;
+}
+.count {
+    font-size: 0.9rem;
+    color: #AFAFAF;
+}
