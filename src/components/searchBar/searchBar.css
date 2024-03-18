@@ -46,20 +46,7 @@ input {
     color: #FFF;
     cursor: pointer;
 }
-.suggestion-container {
-    box-sizing: border-box;
-    width: 61%;
-    max-height: 20rem;
-    overflow-y: scroll;
-    display: block;
-    position: absolute;
-    top: 3.0rem;
-    left: 10rem;
-    border-radius: 2px 2px 5px 5px;
-    background-color: #FFF;
-    z-index: 19;
-    cursor: pointer;
-}
+
 
 .horizontal-line {
     margin-top:10rem;
